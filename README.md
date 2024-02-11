@@ -1,5 +1,3 @@
-Claro! Vou criar uma documentação para o seu projeto. Aqui está a **Visão Geral do Projeto**:
-
 # Visão Geral do Projeto
 
 Este projeto fornece uma **API REST** para gerenciar dados de clientes usando **Fastify**, **Prisma** e **TypeScript**. Ele oferece endpoints para criar, listar e excluir clientes.
