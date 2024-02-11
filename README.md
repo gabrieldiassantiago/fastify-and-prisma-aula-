@@ -79,9 +79,3 @@ Contribuições são bem-vindas! Siga estas etapas:
 
 Este projeto é licenciado sob a **Licença MIT**.
 
-Origem: conversação com o Bing, 11/02/2024
-(1) thekeogh/fastify-prisma-typescript-boilerplate - GitHub. https://github.com/thekeogh/fastify-prisma-typescript-boilerplate.
-(2) lebrancconvas/REST-API-Prisma-Typescript - GitHub. https://github.com/lebrancconvas/REST-API-Prisma-Typescript.
-(3) GitHub - jharteaga/fastify-prisma-rest-api: REST API using Fastify and .... https://github.com/jharteaga/fastify-prisma-rest-api.
-(4) GitHub - hmake98/fastify-typescript: Complete typescript template with .... https://github.com/hmake98/fastify-typescript.
-(5) Build a RESTful API with Fastify, Prisma & TypeScript - YouTube. https://www.youtube.com/watch?v=LMoMHP44-xM.
